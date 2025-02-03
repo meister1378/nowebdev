@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/company/ceo-message/+page.svelte";
